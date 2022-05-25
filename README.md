@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
-[![Kaustubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=coscubes&count_private=true&show_icons=false&theme=default")](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=coscubes&count_private=true&show_icons=false&theme=default" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coscubes&theme=default&show_icons=true" />
