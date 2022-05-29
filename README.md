@@ -1,8 +1,8 @@
 ### Welcome to Kaustubh's world
 
 #### About
-I am studying computer vision, machine learning and deep learning at Saarland univeristy in Germany.
-Previously I obtained a bachelors degree in computer science and bioinformatics from Vellore Institute of Technology.
+I am studying computer vision, machine learning and deep learning at Saarland University in Germany.
+Previously I obtained a bachelors degree in computer science and bioinformatics from Vellore Institute of Technology in India.
 
 Things that I am doing now:
 - Invertible neural networks
