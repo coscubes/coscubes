@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=6ElPOFAAAAAJ&hl=en)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=coscubes&count_private=true&show_icons=false&theme=default" />
+<!-- There should be space here -->
 
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/sakhalkark?ext=activity?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/sakhalkark?ext=activity&theme=light,unicorn)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coscubes&theme=default&show_icons=true" />
 
