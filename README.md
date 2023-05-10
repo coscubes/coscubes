@@ -37,4 +37,8 @@ Here are some ideas to get you started:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=coscubes&count_private=true&show_icons=false&theme=default" />
 
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/sakhalkark?ext=activity?theme=dark)
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coscubes&theme=default&show_icons=true" />
+
